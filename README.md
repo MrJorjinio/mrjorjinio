@@ -1,4 +1,4 @@
-# 🚀 Doniyorov Javohir - Backend Developer & DevOps Engineer
+# 🚀 Doniyorov Javohir - Backend Developer
 
 <div align="center">
 
