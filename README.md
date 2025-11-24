@@ -250,7 +250,7 @@ I'm always excited about interesting opportunities, collaborations, and technica
 ## 📄 Full Portfolio
 
 For an interactive visual experience with animations and detailed showcase:
-🌐 **[Visit My Portfolio Website]([https://yourportfoliolink.com](https://javohirdoniyorov.netlify.app/))**
+🌐 **[Visit My Portfolio Website](https://javohirdoniyorov.netlify.app/)**
 
 ---
 
