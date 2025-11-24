@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm **Javohir Doniyorov**, a 15-year-old **.NET C# Backend Developer** and **DevOps Engineer** from **Tashkent, Uzbekistan**. I specialize in building scalable, production-grade applications with modern architecture patterns and cloud infrastructure.
+I'm **Javohir Doniyorov**, a 15-year-old **.NET C# Backend Developer** from **Tashkent, Uzbekistan**. I specialize in building scalable, production-grade applications with modern architecture patterns and cloud infrastructure.
 
 Currently working as a **Backend Developer at ProEduEdge.uz**, where I'm implementing AI-powered solutions with semantic kernel integration for intelligent question answering systems.
 
@@ -32,7 +32,6 @@ Currently working as a **Backend Developer at ProEduEdge.uz**, where I'm impleme
 | **Technologies** | 10+ Mastered |
 | **Production Projects** | Multiple Deployed |
 | **Current Focus** | AI Integration & DevOps |
-| **Potential** | ∞ Unlimited |
 
 ---
 
@@ -167,14 +166,11 @@ Hands-on experience building scalable applications, implementing microservices, 
 
 ## 🌟 What Makes Me Stand Out
 
-### Age-Defying Skills 🎯
-At 15, building production-grade applications that most 25+ year old developers build.
-
 ### Professional Grade Code 🏆
 Not a student project—production-ready code with enterprise patterns and best practices.
 
 ### DevOps Mastery ☸️
-Kubernetes, Docker, CI/CD pipelines at 15 years old.
+Kubernetes, Docker, CI/CD pipelines knowledge as web developer
 
 ### AI Integration Specialist 🤖
 Modern semantic kernel and vector searching implementation.
