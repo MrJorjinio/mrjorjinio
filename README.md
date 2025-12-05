@@ -1,147 +1,168 @@
 # Hi there 👋 I'm Javohir Doniyorov
 
-## .NET Backend Developer | AI Integration Specialist
+## Full Stack Developer | AI Integration Specialist | System Architect
 
-I'm a passionate backend developer from **Tashkent, Uzbekistan** with expertise in building scalable, intelligent systems using modern .NET technologies. I specialize in AI integration, real-time communication, and cloud-native architectures.
+Building the future, one line of code at a time. I'm a passionate full stack developer from **Tashkent, Uzbekistan** 🇺🇿 specializing in scalable, intelligent systems that blend cutting-edge backend architecture with seamless user experiences.
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I am seeking a role where I can contribute not only my technical strengths in backend development and AI integration, but also my team leadership, communication, and problem-solving abilities. I thrive in environments that value clarity, collaboration, and innovation, and I aim to support teams in building scalable, intelligent, and user-focused software solutions.
+I craft end-to-end solutions that don't just work—they scale, adapt, and inspire. From architecting robust backend systems to building intuitive frontends, I thrive at the intersection of innovation and execution. My superpower? Transforming complex AI concepts into elegant, production-ready applications while leading teams toward a shared vision.
 
 - 💼 **Current Role**: Backend Developer at Codesphere (Sep 2025 - Present)
-- 👨‍💻 **Founder**: Simpchat - A modern web chatting platform (Sep 2025 - Present)
-- 🎓 **Education**: Backend Development at PDP Academy (2024 - 2025)
-- 📍 **Location**: Tashkent, Uzbekistan
+- 🚀 **Founder**: Simpchat - Modern real-time communication platform
+- 🎯 **Mission**: Building scalable, intelligent, and user-centric software solutions
+- 📍 **Based in**: Tashkent, Uzbekistan
+- 🎓 **Trained at**: PDP Academy (2024 - 2025)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Arsenal
 
-### Core Technologies
+### Backend Mastery
+```
+C# • ASP.NET Core • Microservices • Clean Architecture
+SignalR • WebSockets • RESTful APIs • gRPC
+PostgreSQL • MongoDB • Vector Databases
+Entity Framework Core • Advanced Query Optimization
+```
 
-- **Languages**: C#, JavaScript, HTML/CSS
-- **Backend Frameworks**: ASP.NET, ASP.NET Core
-- **Real-Time Communication**: WebSockets, SignalR
-- **Databases**: PostgreSQL, MongoDB, Vector Databases
-- **Architecture**: Clean Architecture, Microservices
-- **DevOps & Cloud**: Docker, Kubernetes, CI/CD, DockerHub, ArtifactHub
+### Frontend Excellence
+```
+JavaScript • HTML5 • CSS3 • Responsive Design
+Modern UI/UX Patterns • Progressive Web Apps
+Real-time Interfaces • Interactive Experiences
+```
 
-### Specialized Skills
+### AI & Intelligence
+```
+Semantic Kernel • LLM Integration • Vector Search
+Embeddings • AI Reasoning Pipelines • ML Integration
+Contextual Understanding • Smart Automation
+```
 
-- **AI & Machine Learning**: Semantic Kernel, LLM Integration, Vector Searching
-- **Data Management**: Entity Framework Core, Data Scaling, Advanced Query Optimization
-- **Tools & Platforms**: Git/Github, Docker, Kubernetes
-- **Design**: Responsive Design, System Architecture
+### DevOps & Cloud
+```
+Docker • Kubernetes • CI/CD Pipelines
+DockerHub • ArtifactHub • Cloud-Native Architectures
+Scalability Engineering • Performance Optimization
+```
 
-### Soft Skills
+### Tools & Workflow
+```
+Git/GitHub • System Design • Architecture Patterns
+Agile Methodologies • Code Review • Documentation
+```
 
-- 🎯 Leadership & Team Management
-- 💬 Effective Communication
-- 🤝 Teamwork & Collaboration
-- ⏱️ Time Management
-- 🧠 Critical Thinking
-- 📊 Project Management
-- 🎤 Public Relations
+### Leadership Skills
+```
+Team Management • Mentorship • Technical Communication
+Project Planning • Critical Thinking • Cross-functional Collaboration
+Public Relations • Strategic Decision Making
+```
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### **Backend Developer** @ Codesphere
+*Sep 2025 - Present*
 
-_Sep 2025 - Present_
+🔹 Architecting AI-powered backend systems using Semantic Kernel for intelligent automation  
+🔹 Engineering high-precision Q&A systems with advanced vector search and semantic matching  
+🔹 Designing scalable APIs with embeddings, AI pipelines, and optimized data flows  
+🔹 Leading cross-functional collaboration, translating AI complexity into actionable development tasks  
+🔹 Driving code quality, mentoring teammates, and ensuring project clarity at every stage
 
-- Developed AI-powered backend features using Semantic Kernel to enable smart automation and contextual understanding
-- Built intelligent Q&A systems with advanced vector search, delivering high-precision semantic matching and knowledge retrieval
-- Designed scalable APIs integrating embeddings, AI reasoning pipelines, and optimized data access flows
-- Collaborated across teams, translating complex AI concepts into clear tasks and guiding implementation processes
-- Demonstrated leadership and communication skills, supporting teammates, maintaining quality, and driving project clarity
+### **Founder & Lead Developer** @ Simpchat
+*Sep 2025 - Present*
 
-### **Founder & Lead Backend Developer** @ Simpchat
-
-_Sep 2025 - Present_
-
-- Founded and fully owned the Simpchat project, overseeing all technical and product decisions
-- Designed the entire system architecture, including API structure, data flow, message handling, and storage logic
-- Implemented the complete backend logic covering authentication, real-time messaging flow, user data management, and service structuring
-- Built the platform using modern .NET backend practices, ensuring scalability, clean code, and long-term maintainability
-- Ensured a balance between performance, simplicity, and a user-friendly messaging experience
+🔹 Founded and architected a modern real-time communication platform from the ground up  
+🔹 Designed complete system architecture: API structure, data flows, message handling, storage logic  
+🔹 Built end-to-end features covering authentication, real-time messaging, user management, and service layers  
+🔹 Implemented using modern .NET practices with focus on scalability, maintainability, and performance  
+🔹 Delivered a production-ready platform balancing technical excellence with user experience
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Project
 
-### **Simpchat**
+### **Simpchat** - *Real-time Communication Platform*
 
-_Web chatting platform for all communication needs_
+> *Where conversations come alive*
 
-- **Tech Stack**: ASP.NET Core, SignalR, PostgreSQL, Docker
-- **Timeline**: Sep 2025 - Present
-- **Highlights**:
-  - Real-time messaging with WebSockets
-  - Scalable architecture designed for growth
-  - Clean code and maintainability focus
-  - Production-ready authentication system
+A modern, scalable web chatting platform built for seamless communication in the real-time era.
 
-### **AgroAI**
+**What makes it special:**
+- ⚡ Lightning-fast real-time messaging powered by SignalR
+- 🏗️ Scalable architecture designed to grow with users
+- 🔐 Production-grade authentication and security
+- 🎨 Clean, maintainable codebase following industry best practices
+- 🐳 Containerized deployment with Docker for consistency across environments
 
-_AI-backed tool helping farmers estimate risks and potential income for better planning_
-
-- **Tech Stack**: .NET, Semantic Kernel, Vector Databases, ML Integration
-- **Timeline**: Nov 2025 - Present
-- **Highlights**:
-  - AI-powered risk assessment
-  - Intelligent income forecasting
-  - Data-driven agricultural insights
+**Tech Stack:** ASP.NET Core • SignalR • PostgreSQL • Docker • WebSockets
 
 ---
 
 ## 🌍 Languages
 
-- 🇺🇿 **Uzbek**: Native
-- 🇷🇺 **Russian**: Native
-- 🇬🇧 **English**: Fluent
-- 🇩🇪 **German**: Elementary
+| Language | Proficiency |
+|----------|-------------|
+| 🇺🇿 Uzbek | Native |
+| 🇷🇺 Russian | Native |
+| 🇬🇧 English | Fluent |
+| 🇩🇪 German | Elementary |
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/doniyorov-javohir](https://linkedin.com/in/doniyorov-javohir)
-- **GitHub**: [github.com/doniyorov](https://github.com)
-- **Online Portfolio**: [https://javohirdoniyorov.netlify.app/]
+<p align="left">
+  <a href="https://linkedin.com/in/doniyorov-javohir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/doniyorov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://javohirdoniyorov.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-Feel free to explore my repositories to see my work in action. I'm constantly learning and building new projects!
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=doniyorov&show_icons=true&theme=radical)
 
 ---
 
-## 🎓 Education
+## 🎯 What I'm Looking For
 
-**PDP Academy** - Backend Development Program
+I'm passionate about collaborating on:
 
-- Duration: 2024 - 2025
-- Focus: Modern backend development, system architecture, and scalable solutions
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in:
-
-- Building innovative backend solutions
-- Integrating AI into practical applications
-- Leading teams and mentoring developers
-- Contributing to open-source projects
-- Exploring new technologies and methodologies
-
-Feel free to reach out if you have any interesting opportunities or just want to chat about backend development!
+✨ **Innovative full stack applications** that push boundaries  
+🤖 **AI-powered solutions** with real-world impact  
+👥 **Team leadership opportunities** where I can mentor and grow talent  
+🌐 **Open-source contributions** that benefit the community  
+🚀 **Cutting-edge technologies** and architectural challenges
 
 ---
 
-_Last Updated: November 2025_
+## 💡 Philosophy
+
+> "Great software isn't just about writing code—it's about solving problems, empowering users, and building systems that stand the test of time."
+
+I believe in clean code, clear communication, and continuous learning. Every project is an opportunity to innovate, every challenge is a chance to grow, and every team member is a partner in building something remarkable.
+
+---
+
+## 🔥 Let's Build Something Amazing Together
+
+Whether you're looking for a technical leader, a full stack developer, or a collaborator on your next big idea—I'm always excited to connect with fellow builders and innovators.
+
+**Drop me a message, and let's create the future! 🚀**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=doniyorov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
+  <i>Last Updated: December 2025</i>
+</p>
